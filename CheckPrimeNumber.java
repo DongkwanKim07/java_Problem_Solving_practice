@@ -1,7 +1,7 @@
 public class CheckPrimeNumber {
     public static void main(String[] arg){
-        System.out.println(isPrime(19));
-        System.out.println(isPrime(49));
+        System.out.println(isPrime(19)); // true
+        System.out.println(isPrime(49)); // false
     }
 
     public static boolean isPrime(int n){
